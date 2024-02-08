@@ -1,8 +1,9 @@
 # CARPENTER VILLAGE ASSOCIATION, INC.
 ## Code of Ethics for Directors
 
-The Carpenter Village Association has adopted the following Code of Ethics for Directors. The members of the Board of Directors (“Board”) shall:
+The Carpenter Village Association has adopted the following Code of Ethics for Directors. 
 
+### The members of the Board of Directors (“Board”) shall:
 1. Strive at all times to serve the best interests of the association as a whole regardless of their personal interests.
 2. Use sound judgment to make the best possible business decisions for the association, taking into consideration all available information, circumstances and resources.
 3. Act within the boundaries of their authority as defined by law and the governing documents of the association.
